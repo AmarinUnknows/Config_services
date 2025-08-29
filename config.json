@@ -1,0 +1,12 @@
+{
+    "service_active": true,
+    "service_name": "Amarin Loader",
+    "version": "1.0.0",
+    "last_updated": "2024-01-01",
+    "maintenance_mode": false,
+    "maintenance_message": "System is under maintenance, please wait",
+    "contact_info": {
+        "email": "support@example.com",
+        "website": "https://example.com"
+    }
+}
