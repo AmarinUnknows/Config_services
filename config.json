@@ -1,5 +1,5 @@
 {
-    "service_active": true,
+    "service_active": false,
     "maintenance_message": "ระบบถูกปิดให้บริการชั่วคราว กรุณาติดต่อทีมงาน",
     "version": "2.0",
     "last_updated": "2025-01-01 00:00:00"
