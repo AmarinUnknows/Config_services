@@ -1,5 +1,5 @@
 {
-    "service_active": true,
+    "service_active": false,
     "maintenance_message": "ระบบพร้อมใช้งาน",
     "version": "2.0",
     "last_updated": "2025-01-01 12:00:00"
